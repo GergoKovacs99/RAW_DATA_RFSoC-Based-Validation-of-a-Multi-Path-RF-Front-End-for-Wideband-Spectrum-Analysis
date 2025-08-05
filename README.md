@@ -32,6 +32,6 @@ VNA Measurements: High‑resolution (10 MHz) insertion loss and group delay me
 
 This dataset ensures transparency and reproducibility of the reported results, providing access to all raw and processed data supporting the conclusions of the study.
 
-Citation
+**Citation**
 If you use this dataset in your research or publication, please cite the associated work or acknowledge the authors accordingly.
-Note: A link to the publication will be provided here once it becomes available.
+**Note:** A link to the publication will be provided here once it becomes available.
